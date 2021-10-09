@@ -15,7 +15,7 @@ export default function Home({ isConnected }) {
         </h1>
 
         {isConnected ? (
-          <h2 className="subtitle">Taxonomy and structure for early childood education</h2>
+          <h2 className="subtitle">Taxonomy and structure for early childhood education</h2>
         ) : (
           <h2 className="subtitle">
             Taxonomy and structure for early childood education
@@ -31,12 +31,12 @@ export default function Home({ isConnected }) {
 
       <footer>
         <a
-          href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+          href="https://education.dev "
           target="_blank"
           rel="noopener noreferrer"
         >
-          Powered by{' '}
-          <img src="/vercel.svg" alt="Vercel Logo" className="logo" />
+          Powered by Education.dev
+          
         </a>
       </footer>
 
