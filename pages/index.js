@@ -5,13 +5,13 @@ export default function Home({ isConnected }) {
   return (
     <div className="container">
       <Head>
-        <title>Taxonomy.io </title>
+        <title>Topics.dev </title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
         <h1 className="title">
-          Welcome to <a href="https://nextjs.org">Taxonomy.io</a>
+          Welcome to <a href="https://topcis.dev">Topics.dev</a>
         </h1>
 
         {isConnected ? (
