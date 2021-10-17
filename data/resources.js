@@ -1,6 +1,6 @@
 export const resources = [{
         "language": "en",
-        "mainTopic": "math",
+        "mainTopic": "early-math",
         "topic": "counting",
         "subTopic": "learn",
         "caption": "Counting",
@@ -10,7 +10,7 @@ export const resources = [{
     },
     {
         "language": "en",
-        "mainTopic": "math",
+        "mainTopic": "early-math",
         "topic": "counting",
         "subTopic": "learn",
         "caption": "Counting legs - Book",
@@ -20,7 +20,7 @@ export const resources = [{
     },
     {
         "language": "en",
-        "mainTopic": "math",
+        "mainTopic": "early-math",
         "topic": "counting",
         "subTopic": "learn",
         "caption": "Simple counting - Book",
@@ -30,7 +30,7 @@ export const resources = [{
     },
     {
         "language": "en",
-        "mainTopic": "math",
+        "mainTopic": "early-math",
         "topic": "counting",
         "subTopic": "practice",
         "caption": "Counting to 10",
@@ -40,7 +40,7 @@ export const resources = [{
     },
     {
         "language": "en",
-        "mainTopic": "math",
+        "mainTopic": "early-math",
         "topic": "counting",
         "subTopic": "practice",
         "caption": "Put numbers in order",
@@ -50,7 +50,7 @@ export const resources = [{
     },
     {
         "language": "en",
-        "mainTopic": "math",
+        "mainTopic": "early-math",
         "topic": "Counting-in-order",
         "subTopic": "learn",
         "caption": "Count in order - video",
@@ -60,7 +60,7 @@ export const resources = [{
     },
     {
         "language": "en",
-        "mainTopic": "math",
+        "mainTopic": "early-math",
         "topic": "Counting-in-order",
         "subTopic": "practice",
         "caption": "Count in order",
@@ -70,7 +70,7 @@ export const resources = [{
     },
     {
         "language": "en",
-        "mainTopic": "math",
+        "mainTopic": "early-math",
         "topic": "Counting-in-order",
         "subTopic": "practice",
         "caption": "1 more or 1 less",
@@ -80,7 +80,7 @@ export const resources = [{
     },
     {
         "language": "en",
-        "mainTopic": "math",
+        "mainTopic": "early-math",
         "topic": "Counting-in-order",
         "subTopic": "practice",
         "caption": "Count in images",
