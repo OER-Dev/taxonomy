@@ -2,6 +2,6 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/api/toplevel": "pages/api/toplevel.js",
-  "/": "pages/index.js"
+  "/": "pages/index.js",
+  "/api/assessment": "pages/api/assessment.js"
 }
