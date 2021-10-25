@@ -1,2815 +1,3628 @@
 export const assessment = [{
         "assessment": "oralvocabulary",
         "bucket": 1,
-        "term": "sun",
+        "target": "sun",
         "audio": "https://storage.googleapis.com/assessment-data-2021/sun.wav",
-        "image": "https://storage.googleapis.com/assessment-data-2021/images/sun.png"
+        "image": "https://storage.googleapis.com/assessment-data-2021/images/sun.png",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "oralvocabulary",
         "bucket": 1,
-        "term": "happy",
+        "target": "happy",
         "audio": "https://storage.googleapis.com/assessment-data-2021/happy.wav",
-        "image": "https://storage.googleapis.com/assessment-data-2021/images/happy.png"
+        "image": "https://storage.googleapis.com/assessment-data-2021/images/happy.png",
+        "license": "CC-BY-SA-4.0",
+        "source": ""
     },
     {
         "assessment": "oralvocabulary",
         "bucket": 1,
-        "term": "house",
+        "target": "house",
         "audio": "https://storage.googleapis.com/assessment-data-2021/house.wav",
-        "image": "https://storage.googleapis.com/assessment-data-2021/images/house.png"
+        "image": "https://storage.googleapis.com/assessment-data-2021/images/house.png",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "oralvocabulary",
         "bucket": 1,
-        "term": "two",
+        "target": "two",
         "audio": "https://storage.googleapis.com/assessment-data-2021/two.wav",
-        "image": "https://storage.googleapis.com/assessment-data-2021/images/two.png"
+        "image": "https://storage.googleapis.com/assessment-data-2021/images/two.png",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "oralvocabulary",
         "bucket": 1,
-        "term": "school",
+        "target": "school",
         "audio": "https://storage.googleapis.com/assessment-data-2021/school.wav",
-        "image": "https://storage.googleapis.com/assessment-data-2021/images/school.png"
+        "image": "https://storage.googleapis.com/assessment-data-2021/images/school.png",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "oralvocabulary",
         "bucket": 1,
-        "term": "tree",
+        "target": "tree",
         "audio": "https://storage.googleapis.com/assessment-data-2021/tree.wav",
-        "image": "https://storage.googleapis.com/assessment-data-2021/images/tree.png"
+        "image": "https://storage.googleapis.com/assessment-data-2021/images/tree.png",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "oralvocabulary",
         "bucket": 1,
-        "term": "fish",
+        "target": "fish",
         "audio": "https://storage.googleapis.com/assessment-data-2021/fish.wav",
-        "image": "https://storage.googleapis.com/assessment-data-2021/images/fish.png"
+        "image": "https://storage.googleapis.com/assessment-data-2021/images/fish.png",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "oralvocabulary",
         "bucket": 1,
-        "term": "cat",
+        "target": "cat",
         "audio": "https://storage.googleapis.com/assessment-data-2021/cat.wav",
-        "image": "https://storage.googleapis.com/assessment-data-2021/images/cat.png"
+        "image": "https://storage.googleapis.com/assessment-data-2021/images/cat.png",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "oralvocabulary",
         "bucket": 1,
-        "term": "bird",
+        "target": "bird",
         "audio": "https://storage.googleapis.com/assessment-data-2021/bird.wav",
-        "image": "https://storage.googleapis.com/assessment-data-2021/images/bird.png"
+        "image": "https://storage.googleapis.com/assessment-data-2021/images/bird.png",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "oralvocabulary",
         "bucket": 1,
-        "term": "book",
+        "target": "book",
         "audio": "https://storage.googleapis.com/assessment-data-2021/book.wav",
-        "image": "https://storage.googleapis.com/assessment-data-2021/images/book.png"
+        "image": "https://storage.googleapis.com/assessment-data-2021/images/book.png",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "oralvocabulary",
         "bucket": 1,
-        "term": "hand",
+        "target": "hand",
         "audio": "https://storage.googleapis.com/assessment-data-2021/hand.wav",
-        "image": "https://storage.googleapis.com/assessment-data-2021/images/hand.png"
+        "image": "https://storage.googleapis.com/assessment-data-2021/images/hand.png",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "oralvocabulary",
         "bucket": 2,
-        "term": "world",
+        "target": "world",
         "audio": "https://storage.googleapis.com/assessment-data-2021/world.wav",
-        "image": "https://storage.googleapis.com/assessment-data-2021/images/world.png"
+        "image": "https://storage.googleapis.com/assessment-data-2021/images/world.png",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "oralvocabulary",
         "bucket": 2,
-        "term": "old",
+        "target": "old",
         "audio": "https://storage.googleapis.com/assessment-data-2021/old.wav",
-        "image": "https://storage.googleapis.com/assessment-data-2021/images/old.png"
+        "image": "https://storage.googleapis.com/assessment-data-2021/images/old.png",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "oralvocabulary",
         "bucket": 2,
-        "term": "head",
+        "target": "head",
         "audio": "https://storage.googleapis.com/assessment-data-2021/head.wav",
-        "image": "https://storage.googleapis.com/assessment-data-2021/images/head.png"
+        "image": "https://storage.googleapis.com/assessment-data-2021/images/head.png",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "oralvocabulary",
         "bucket": 2,
-        "term": "two",
+        "target": "two",
         "audio": "https://storage.googleapis.com/assessment-data-2021/two.wav",
-        "image": "https://storage.googleapis.com/assessment-data-2021/images/two.png"
+        "image": "https://storage.googleapis.com/assessment-data-2021/images/two.png",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "oralvocabulary",
         "bucket": 2,
-        "term": "baby",
+        "target": "baby",
         "audio": "https://storage.googleapis.com/assessment-data-2021/baby.wav",
-        "image": "https://storage.googleapis.com/assessment-data-2021/images/baby.png"
+        "image": "https://storage.googleapis.com/assessment-data-2021/images/baby.png",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "oralvocabulary",
         "bucket": 2,
-        "term": "water",
+        "target": "water",
         "audio": "https://storage.googleapis.com/assessment-data-2021/water.wav",
-        "image": "https://storage.googleapis.com/assessment-data-2021/images/water.png"
+        "image": "https://storage.googleapis.com/assessment-data-2021/images/water.png",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "oralvocabulary",
         "bucket": 2,
-        "term": "eyes",
+        "target": "eyes",
         "audio": "https://storage.googleapis.com/assessment-data-2021/eyes.wav",
-        "image": "https://storage.googleapis.com/assessment-data-2021/images/eyes.png"
+        "image": "https://storage.googleapis.com/assessment-data-2021/images/eyes.png",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "oralvocabulary",
         "bucket": 2,
-        "term": "fly",
+        "target": "fly",
         "audio": "https://storage.googleapis.com/assessment-data-2021/fly.wav",
-        "image": "https://storage.googleapis.com/assessment-data-2021/images/fly.png"
+        "image": "https://storage.googleapis.com/assessment-data-2021/images/fly.png",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "oralvocabulary",
         "bucket": 2,
-        "term": "food",
+        "target": "food",
         "audio": "https://storage.googleapis.com/assessment-data-2021/food.wav",
-        "image": "https://storage.googleapis.com/assessment-data-2021/images/food.png"
+        "image": "https://storage.googleapis.com/assessment-data-2021/images/food.png",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "oralvocabulary",
         "bucket": 2,
-        "term": "can",
+        "target": "can",
         "audio": "https://storage.googleapis.com/assessment-data-2021/can.wav",
-        "image": "https://storage.googleapis.com/assessment-data-2021/images/can.png"
+        "image": "https://storage.googleapis.com/assessment-data-2021/images/can.png",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "oralvocabulary",
         "bucket": 2,
-        "term": "wings",
+        "target": "wings",
         "audio": "https://storage.googleapis.com/assessment-data-2021/wings.wav",
-        "image": "https://storage.googleapis.com/assessment-data-2021/images/wings.png"
+        "image": "https://storage.googleapis.com/assessment-data-2021/images/wings.png",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "oralvocabulary",
         "bucket": 3,
-        "term": "ball",
+        "target": "ball",
         "audio": "https://storage.googleapis.com/assessment-data-2021/ball.wav",
-        "image": "https://storage.googleapis.com/assessment-data-2021/images/ball.png"
+        "image": "https://storage.googleapis.com/assessment-data-2021/images/ball.png",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "oralvocabulary",
         "bucket": 3,
-        "term": "blue",
+        "target": "blue",
         "audio": "https://storage.googleapis.com/assessment-data-2021/blue.wav",
-        "image": "https://storage.googleapis.com/assessment-data-2021/images/blue.png"
+        "image": "https://storage.googleapis.com/assessment-data-2021/images/blue.png",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "oralvocabulary",
         "bucket": 3,
-        "term": "moon",
+        "target": "moon",
         "audio": "https://storage.googleapis.com/assessment-data-2021/moon.wav",
-        "image": "https://storage.googleapis.com/assessment-data-2021/images/moon.png"
+        "image": "https://storage.googleapis.com/assessment-data-2021/images/moon.png",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "oralvocabulary",
         "bucket": 3,
-        "term": "tiny",
+        "target": "tiny",
         "audio": "https://storage.googleapis.com/assessment-data-2021/tiny.wav",
-        "image": "https://storage.googleapis.com/assessment-data-2021/images/tiny.png"
+        "image": "https://storage.googleapis.com/assessment-data-2021/images/tiny.png",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "oralvocabulary",
         "bucket": 3,
-        "term": "door",
+        "target": "door",
         "audio": "https://storage.googleapis.com/assessment-data-2021/door.wav",
-        "image": "https://storage.googleapis.com/assessment-data-2021/images/door.png"
+        "image": "https://storage.googleapis.com/assessment-data-2021/images/door.png",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "oralvocabulary",
         "bucket": 3,
-        "term": "dog",
+        "target": "dog",
         "audio": "https://storage.googleapis.com/assessment-data-2021/dog.wav",
-        "image": "https://storage.googleapis.com/assessment-data-2021/images/dog.png"
+        "image": "https://storage.googleapis.com/assessment-data-2021/images/dog.png",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "oralvocabulary",
         "bucket": 3,
-        "term": "plant",
+        "target": "plant",
         "audio": "https://storage.googleapis.com/assessment-data-2021/plant.wav",
-        "image": "https://storage.googleapis.com/assessment-data-2021/images/plant.png"
+        "image": "https://storage.googleapis.com/assessment-data-2021/images/plant.png",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "oralvocabulary",
         "bucket": 3,
-        "term": "mouth",
+        "target": "mouth",
         "audio": "https://storage.googleapis.com/assessment-data-2021/mouth.wav",
-        "image": "https://storage.googleapis.com/assessment-data-2021/images/mouth.png"
+        "image": "https://storage.googleapis.com/assessment-data-2021/images/mouth.png",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "oralvocabulary",
         "bucket": 3,
-        "term": "train",
+        "target": "train",
         "audio": "https://storage.googleapis.com/assessment-data-2021/train.wav",
-        "image": "https://storage.googleapis.com/assessment-data-2021/images/train.png"
+        "image": "https://storage.googleapis.com/assessment-data-2021/images/train.png",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "oralvocabulary",
         "bucket": 3,
-        "term": "round",
+        "target": "round",
         "audio": "https://storage.googleapis.com/assessment-data-2021/round.wav",
-        "image": "https://storage.googleapis.com/assessment-data-2021/images/round.png"
+        "image": "https://storage.googleapis.com/assessment-data-2021/images/round.png",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "oralvocabulary",
         "bucket": 3,
-        "term": "mouse",
+        "target": "mouse",
         "audio": "https://storage.googleapis.com/assessment-data-2021/mouse.wav",
-        "image": "https://storage.googleapis.com/assessment-data-2021/images/mouse.png"
+        "image": "https://storage.googleapis.com/assessment-data-2021/images/mouse.png",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "oralvocabulary",
         "bucket": 4,
-        "term": "elephant",
+        "target": "elephant",
         "audio": "https://storage.googleapis.com/assessment-data-2021/elephant.wav",
-        "image": "https://storage.googleapis.com/assessment-data-2021/images/elephant.png"
+        "image": "https://storage.googleapis.com/assessment-data-2021/images/elephant.png",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "oralvocabulary",
         "bucket": 4,
-        "term": "sleep",
+        "target": "sleep",
         "audio": "https://storage.googleapis.com/assessment-data-2021/sleep.wav",
-        "image": "https://storage.googleapis.com/assessment-data-2021/images/sleep.png"
+        "image": "https://storage.googleapis.com/assessment-data-2021/images/sleep.png",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "oralvocabulary",
         "bucket": 4,
-        "term": "frog",
+        "target": "frog",
         "audio": "https://storage.googleapis.com/assessment-data-2021/frog.wav",
-        "image": "https://storage.googleapis.com/assessment-data-2021/images/frog.png"
+        "image": "https://storage.googleapis.com/assessment-data-2021/images/frog.png",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "oralvocabulary",
         "bucket": 4,
-        "term": "dress",
+        "target": "dress",
         "audio": "https://storage.googleapis.com/assessment-data-2021/dress.wav",
-        "image": "https://storage.googleapis.com/assessment-data-2021/images/dress.png"
+        "image": "https://storage.googleapis.com/assessment-data-2021/images/dress.png",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "oralvocabulary",
         "bucket": 4,
-        "term": "pot",
+        "target": "pot",
         "audio": "https://storage.googleapis.com/assessment-data-2021/pot.wav",
-        "image": "https://storage.googleapis.com/assessment-data-2021/images/pot.png"
+        "image": "https://storage.googleapis.com/assessment-data-2021/images/pot.png",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "oralvocabulary",
         "bucket": 4,
-        "term": "apple",
+        "target": "apple",
         "audio": "https://storage.googleapis.com/assessment-data-2021/apple.wav",
-        "image": "https://storage.googleapis.com/assessment-data-2021/images/apple.png"
+        "image": "https://storage.googleapis.com/assessment-data-2021/images/apple.png",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "oralvocabulary",
         "bucket": 4,
-        "term": "bicycle",
+        "target": "bicycle",
         "audio": "https://storage.googleapis.com/assessment-data-2021/bicycle.wav",
-        "image": "https://storage.googleapis.com/assessment-data-2021/images/bicycle.png"
+        "image": "https://storage.googleapis.com/assessment-data-2021/images/bicycle.png",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "oralvocabulary",
         "bucket": 4,
-        "term": "rock",
+        "target": "rock",
         "audio": "https://storage.googleapis.com/assessment-data-2021/rock.wav",
-        "image": "https://storage.googleapis.com/assessment-data-2021/images/rock.png"
+        "image": "https://storage.googleapis.com/assessment-data-2021/images/rock.png",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "oralvocabulary",
         "bucket": 4,
-        "term": "banana",
+        "target": "banana",
         "audio": "https://storage.googleapis.com/assessment-data-2021/banana.wav",
-        "image": "https://storage.googleapis.com/assessment-data-2021/images/banana.png"
+        "image": "https://storage.googleapis.com/assessment-data-2021/images/banana.png",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "oralvocabulary",
         "bucket": 4,
-        "term": "shell",
+        "target": "shell",
         "audio": "https://storage.googleapis.com/assessment-data-2021/shell.wav",
-        "image": "https://storage.googleapis.com/assessment-data-2021/images/shell.png"
+        "image": "https://storage.googleapis.com/assessment-data-2021/images/shell.png",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "oralvocabulary",
         "bucket": 4,
-        "term": "broom",
+        "target": "broom",
         "audio": "https://storage.googleapis.com/assessment-data-2021/broom.wav",
-        "image": "https://storage.googleapis.com/assessment-data-2021/images/broom.png"
+        "image": "https://storage.googleapis.com/assessment-data-2021/images/broom.png",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "oralvocabulary",
         "bucket": 5,
-        "term": "mirror",
+        "target": "mirror",
         "audio": "https://storage.googleapis.com/assessment-data-2021/mirror.wav",
-        "image": "https://storage.googleapis.com/assessment-data-2021/images/mirror.png"
+        "image": "https://storage.googleapis.com/assessment-data-2021/images/mirror.png",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "oralvocabulary",
         "bucket": 5,
-        "term": "ship",
+        "target": "ship",
         "audio": "https://storage.googleapis.com/assessment-data-2021/ship.wav",
-        "image": "https://storage.googleapis.com/assessment-data-2021/images/ship.png"
+        "image": "https://storage.googleapis.com/assessment-data-2021/images/ship.png",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "oralvocabulary",
         "bucket": 5,
-        "term": "mountain",
+        "target": "mountain",
         "audio": "https://storage.googleapis.com/assessment-data-2021/mountain.wav",
-        "image": "https://storage.googleapis.com/assessment-data-2021/images/mountain.png"
+        "image": "https://storage.googleapis.com/assessment-data-2021/images/mountain.png",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "oralvocabulary",
         "bucket": 5,
-        "term": "shirt",
+        "target": "shirt",
         "audio": "https://storage.googleapis.com/assessment-data-2021/shirt.wav",
-        "image": "https://storage.googleapis.com/assessment-data-2021/images/shirt.png"
+        "image": "https://storage.googleapis.com/assessment-data-2021/images/shirt.png",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "oralvocabulary",
         "bucket": 5,
-        "term": "heart",
+        "target": "heart",
         "audio": "https://storage.googleapis.com/assessment-data-2021/heart.wav",
-        "image": "https://storage.googleapis.com/assessment-data-2021/images/heart.png"
+        "image": "https://storage.googleapis.com/assessment-data-2021/images/heart.png",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "oralvocabulary",
         "bucket": 5,
-        "term": "leaf",
+        "target": "leaf",
         "audio": "https://storage.googleapis.com/assessment-data-2021/leaf.wav",
-        "image": "https://storage.googleapis.com/assessment-data-2021/images/leaf.png"
+        "image": "https://storage.googleapis.com/assessment-data-2021/images/leaf.png",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "oralvocabulary",
         "bucket": 5,
-        "term": "turtle",
+        "target": "turtle",
         "audio": "https://storage.googleapis.com/assessment-data-2021/turtle.wav",
-        "image": "https://storage.googleapis.com/assessment-data-2021/images/turtle.png"
+        "image": "https://storage.googleapis.com/assessment-data-2021/images/turtle.png",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "oralvocabulary",
         "bucket": 5,
-        "term": "bucket",
+        "target": "bucket",
         "audio": "https://storage.googleapis.com/assessment-data-2021/bucket.wav",
-        "image": "https://storage.googleapis.com/assessment-data-2021/images/bucket.png"
+        "image": "https://storage.googleapis.com/assessment-data-2021/images/bucket.png",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "oralvocabulary",
         "bucket": 5,
-        "term": "drum",
+        "target": "drum",
         "audio": "https://storage.googleapis.com/assessment-data-2021/drum.wav",
-        "image": "https://storage.googleapis.com/assessment-data-2021/images/drum.png"
+        "image": "https://storage.googleapis.com/assessment-data-2021/images/drum.png",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "oralvocabulary",
         "bucket": 5,
-        "term": "socks",
+        "target": "socks",
         "audio": "https://storage.googleapis.com/assessment-data-2021/socks.wav",
-        "image": "https://storage.googleapis.com/assessment-data-2021/images/socks.png"
+        "image": "https://storage.googleapis.com/assessment-data-2021/images/socks.png",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "oralvocabulary",
         "bucket": 5,
-        "term": "pig",
+        "target": "pig",
         "audio": "https://storage.googleapis.com/assessment-data-2021/pig.wav",
-        "image": "https://storage.googleapis.com/assessment-data-2021/images/pig.png"
+        "image": "https://storage.googleapis.com/assessment-data-2021/images/pig.png",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "oralvocabulary",
         "bucket": 6,
-        "term": "shoe",
+        "target": "shoe",
         "audio": "https://storage.googleapis.com/assessment-data-2021/shoe.wav",
-        "image": "https://storage.googleapis.com/assessment-data-2021/images/shoe.png"
+        "image": "https://storage.googleapis.com/assessment-data-2021/images/shoe.png",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "oralvocabulary",
         "bucket": 6,
-        "term": "clock",
+        "target": "clock",
         "audio": "https://storage.googleapis.com/assessment-data-2021/clock.wav",
-        "image": "https://storage.googleapis.com/assessment-data-2021/images/clock.png"
+        "image": "https://storage.googleapis.com/assessment-data-2021/images/clock.png",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "oralvocabulary",
         "bucket": 6,
-        "term": "doll",
+        "target": "doll",
         "audio": "https://storage.googleapis.com/assessment-data-2021/doll.wav",
-        "image": "https://storage.googleapis.com/assessment-data-2021/images/doll.png"
+        "image": "https://storage.googleapis.com/assessment-data-2021/images/doll.png",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "oralvocabulary",
         "bucket": 6,
-        "term": "lizard",
+        "target": "lizard",
         "audio": "https://storage.googleapis.com/assessment-data-2021/lizard.wav",
-        "image": "https://storage.googleapis.com/assessment-data-2021/images/lizard.png"
+        "image": "https://storage.googleapis.com/assessment-data-2021/images/lizard.png",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "oralvocabulary",
         "bucket": 6,
-        "term": "egg",
+        "target": "egg",
         "audio": "https://storage.googleapis.com/assessment-data-2021/egg.wav",
-        "image": "https://storage.googleapis.com/assessment-data-2021/images/egg.png"
+        "image": "https://storage.googleapis.com/assessment-data-2021/images/egg.png",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "oralvocabulary",
         "bucket": 6,
-        "term": "lamp",
+        "target": "lamp",
         "audio": "https://storage.googleapis.com/assessment-data-2021/lamp.wav",
-        "image": "https://storage.googleapis.com/assessment-data-2021/images/lamp.png"
+        "image": "https://storage.googleapis.com/assessment-data-2021/images/lamp.png",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "oralvocabulary",
         "bucket": 6,
-        "term": "bubble",
+        "target": "bubble",
         "audio": "https://storage.googleapis.com/assessment-data-2021/bubble.wav",
-        "image": "https://storage.googleapis.com/assessment-data-2021/images/bubble.png"
+        "image": "https://storage.googleapis.com/assessment-data-2021/images/bubble.png",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "oralvocabulary",
         "bucket": 6,
-        "term": "candle",
+        "target": "candle",
         "audio": "https://storage.googleapis.com/assessment-data-2021/candle.wav",
-        "image": "https://storage.googleapis.com/assessment-data-2021/images/candle.png"
+        "image": "https://storage.googleapis.com/assessment-data-2021/images/candle.png",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "oralvocabulary",
         "bucket": 6,
-        "term": "fan",
+        "target": "fan",
         "audio": "https://storage.googleapis.com/assessment-data-2021/fan.wav",
-        "image": "https://storage.googleapis.com/assessment-data-2021/images/fan.png"
+        "image": "https://storage.googleapis.com/assessment-data-2021/images/fan.png",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "oralvocabulary",
         "bucket": 6,
-        "term": "tractor",
+        "target": "tractor",
         "audio": "https://storage.googleapis.com/assessment-data-2021/tractor.wav",
-        "image": "https://storage.googleapis.com/assessment-data-2021/images/tractor.png"
+        "image": "https://storage.googleapis.com/assessment-data-2021/images/tractor.png",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "oralvocabulary",
         "bucket": 6,
-        "term": "triangle",
+        "target": "triangle",
         "audio": "https://storage.googleapis.com/assessment-data-2021/triangle.wav",
-        "image": "https://storage.googleapis.com/assessment-data-2021/images/triangle.png"
+        "image": "https://storage.googleapis.com/assessment-data-2021/images/triangle.png",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "oralvocabulary",
         "bucket": 7,
-        "term": "bat",
+        "target": "bat",
         "audio": "https://storage.googleapis.com/assessment-data-2021/bat.wav",
-        "image": "https://storage.googleapis.com/assessment-data-2021/images/bat.png"
+        "image": "https://storage.googleapis.com/assessment-data-2021/images/bat.png",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "oralvocabulary",
         "bucket": 7,
-        "term": "smiling",
+        "target": "smiling",
         "audio": "https://storage.googleapis.com/assessment-data-2021/smiling.wav",
-        "image": "https://storage.googleapis.com/assessment-data-2021/images/smiling.png"
+        "image": "https://storage.googleapis.com/assessment-data-2021/images/smiling.png",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "oralvocabulary",
         "bucket": 7,
-        "term": "tooth",
+        "target": "tooth",
         "audio": "https://storage.googleapis.com/assessment-data-2021/tooth.wav",
-        "image": "https://storage.googleapis.com/assessment-data-2021/images/tooth.png"
+        "image": "https://storage.googleapis.com/assessment-data-2021/images/tooth.png",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "oralvocabulary",
         "bucket": 7,
-        "term": "beak",
+        "target": "beak",
         "audio": "https://storage.googleapis.com/assessment-data-2021/beak.wav",
-        "image": "https://storage.googleapis.com/assessment-data-2021/images/beak.png"
+        "image": "https://storage.googleapis.com/assessment-data-2021/images/beak.png",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "oralvocabulary",
         "bucket": 7,
-        "term": "rainbow",
+        "target": "rainbow",
         "audio": "https://storage.googleapis.com/assessment-data-2021/rainbow.wav",
-        "image": "https://storage.googleapis.com/assessment-data-2021/images/rainbow.png"
+        "image": "https://storage.googleapis.com/assessment-data-2021/images/rainbow.png",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "oralvocabulary",
         "bucket": 7,
-        "term": "kite",
+        "target": "kite",
         "audio": "https://storage.googleapis.com/assessment-data-2021/kite.wav",
-        "image": "https://storage.googleapis.com/assessment-data-2021/images/kite.png"
+        "image": "https://storage.googleapis.com/assessment-data-2021/images/kite.png",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "oralvocabulary",
         "bucket": 7,
-        "term": "tube",
+        "target": "tube",
         "audio": "https://storage.googleapis.com/assessment-data-2021/tube.wav",
-        "image": "https://storage.googleapis.com/assessment-data-2021/images/tube.png"
+        "image": "https://storage.googleapis.com/assessment-data-2021/images/tube.png",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "oralvocabulary",
         "bucket": 7,
-        "term": "insect",
+        "target": "insect",
         "audio": "https://storage.googleapis.com/assessment-data-2021/insect.wav",
-        "image": "https://storage.googleapis.com/assessment-data-2021/images/insect.png"
+        "image": "https://storage.googleapis.com/assessment-data-2021/images/insect.png",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "oralvocabulary",
         "bucket": 7,
-        "term": "computer",
+        "target": "computer",
         "audio": "https://storage.googleapis.com/assessment-data-2021/computer.wav",
-        "image": "https://storage.googleapis.com/assessment-data-2021/images/computer.png"
+        "image": "https://storage.googleapis.com/assessment-data-2021/images/computer.png",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "oralvocabulary",
         "bucket": 7,
-        "term": "umbrella",
+        "target": "umbrella",
         "audio": "https://storage.googleapis.com/assessment-data-2021/umbrella.wav",
-        "image": "https://storage.googleapis.com/assessment-data-2021/images/umbrella.png"
+        "image": "https://storage.googleapis.com/assessment-data-2021/images/umbrella.png",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "oralvocabulary",
         "bucket": 7,
-        "term": "plates",
+        "target": "plates",
         "audio": "https://storage.googleapis.com/assessment-data-2021/plates.wav",
-        "image": "https://storage.googleapis.com/assessment-data-2021/images/plates.png"
+        "image": "https://storage.googleapis.com/assessment-data-2021/images/plates.png",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "oralvocabulary",
         "bucket": 8,
-        "term": "battery",
+        "target": "battery",
         "audio": "https://storage.googleapis.com/assessment-data-2021/battery.wav",
-        "image": "https://storage.googleapis.com/assessment-data-2021/images/battery.png"
+        "image": "https://storage.googleapis.com/assessment-data-2021/images/battery.png",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "oralvocabulary",
         "bucket": 8,
-        "term": "cube",
+        "target": "cube",
         "audio": "https://storage.googleapis.com/assessment-data-2021/cube.wav",
-        "image": "https://storage.googleapis.com/assessment-data-2021/images/cube.png"
+        "image": "https://storage.googleapis.com/assessment-data-2021/images/cube.png",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "oralvocabulary",
         "bucket": 8,
-        "term": "nails",
+        "target": "nails",
         "audio": "https://storage.googleapis.com/assessment-data-2021/nails.wav",
-        "image": "https://storage.googleapis.com/assessment-data-2021/images/nails.png"
+        "image": "https://storage.googleapis.com/assessment-data-2021/images/nails.png",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "oralvocabulary",
         "bucket": 8,
-        "term": "onion",
+        "target": "onion",
         "audio": "https://storage.googleapis.com/assessment-data-2021/onion.wav",
-        "image": "https://storage.googleapis.com/assessment-data-2021/images/onion.png"
+        "image": "https://storage.googleapis.com/assessment-data-2021/images/onion.png",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "oralvocabulary",
         "bucket": 8,
-        "term": "zebra",
+        "target": "zebra",
         "audio": "https://storage.googleapis.com/assessment-data-2021/zebra.wav",
-        "image": "https://storage.googleapis.com/assessment-data-2021/images/zebra.png"
+        "image": "https://storage.googleapis.com/assessment-data-2021/images/zebra.png",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "oralvocabulary",
         "bucket": 8,
-        "term": "bookshelf",
+        "target": "bookshelf",
         "audio": "https://storage.googleapis.com/assessment-data-2021/bookshelf.wav",
-        "image": "https://storage.googleapis.com/assessment-data-2021/images/bookshelf.png"
+        "image": "https://storage.googleapis.com/assessment-data-2021/images/bookshelf.png",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "oralvocabulary",
         "bucket": 8,
-        "term": "minibus",
+        "target": "minibus",
         "audio": "https://storage.googleapis.com/assessment-data-2021/minibus.wav",
-        "image": "https://storage.googleapis.com/assessment-data-2021/images/minibus.png"
+        "image": "https://storage.googleapis.com/assessment-data-2021/images/minibus.png",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "oralvocabulary",
         "bucket": 8,
-        "term": "suitcase",
+        "target": "suitcase",
         "audio": "https://storage.googleapis.com/assessment-data-2021/suitcase.wav",
-        "image": "https://storage.googleapis.com/assessment-data-2021/images/suitcase.png"
+        "image": "https://storage.googleapis.com/assessment-data-2021/images/suitcase.png",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "oralvocabulary",
         "bucket": 8,
-        "term": "backpack",
+        "target": "backpack",
         "audio": "https://storage.googleapis.com/assessment-data-2021/backpack.wav",
-        "image": "https://storage.googleapis.com/assessment-data-2021/images/backpack.png"
+        "image": "https://storage.googleapis.com/assessment-data-2021/images/backpack.png",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "oralvocabulary",
         "bucket": 8,
-        "term": "fork",
+        "target": "fork",
         "audio": "https://storage.googleapis.com/assessment-data-2021/fork.wav",
-        "image": "https://storage.googleapis.com/assessment-data-2021/images/fork.png"
+        "image": "https://storage.googleapis.com/assessment-data-2021/images/fork.png",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "oralvocabulary",
         "bucket": 8,
-        "term": "rectangle",
+        "target": "rectangle",
         "audio": "https://storage.googleapis.com/assessment-data-2021/rectangle.wav",
-        "image": "https://storage.googleapis.com/assessment-data-2021/images/rectangle.png"
+        "image": "https://storage.googleapis.com/assessment-data-2021/images/rectangle.png",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "oralvocabulary",
         "bucket": 9,
-        "term": "burger",
+        "target": "burger",
         "audio": "https://storage.googleapis.com/assessment-data-2021/burger.wav",
-        "image": "https://storage.googleapis.com/assessment-data-2021/images/burger.png"
+        "image": "https://storage.googleapis.com/assessment-data-2021/images/burger.png",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "oralvocabulary",
         "bucket": 9,
-        "term": "spaghetti",
+        "target": "spaghetti",
         "audio": "https://storage.googleapis.com/assessment-data-2021/spaghetti.wav",
-        "image": "https://storage.googleapis.com/assessment-data-2021/images/spaghetti.png"
+        "image": "https://storage.googleapis.com/assessment-data-2021/images/spaghetti.png",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "oralvocabulary",
         "bucket": 9,
-        "term": "pineapple",
+        "target": "pineapple",
         "audio": "https://storage.googleapis.com/assessment-data-2021/pineapple.wav",
-        "image": "https://storage.googleapis.com/assessment-data-2021/images/pineapple.png"
+        "image": "https://storage.googleapis.com/assessment-data-2021/images/pineapple.png",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "oralvocabulary",
         "bucket": 9,
-        "term": "helmet",
+        "target": "helmet",
         "audio": "https://storage.googleapis.com/assessment-data-2021/helmet.wav",
-        "image": "https://storage.googleapis.com/assessment-data-2021/images/helmet.png"
+        "image": "https://storage.googleapis.com/assessment-data-2021/images/helmet.png",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "oralvocabulary",
         "bucket": 9,
-        "term": "gloves",
+        "target": "gloves",
         "audio": "https://storage.googleapis.com/assessment-data-2021/gloves.wav",
-        "image": "https://storage.googleapis.com/assessment-data-2021/images/gloves.png"
+        "image": "https://storage.googleapis.com/assessment-data-2021/images/gloves.png",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "oralvocabulary",
         "bucket": 9,
-        "term": "chimney",
+        "target": "chimney",
         "audio": "https://storage.googleapis.com/assessment-data-2021/chimney.wav",
-        "image": "https://storage.googleapis.com/assessment-data-2021/images/chimney.png"
+        "image": "https://storage.googleapis.com/assessment-data-2021/images/chimney.png",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "oralvocabulary",
         "bucket": 9,
-        "term": "cheetah",
+        "target": "cheetah",
         "audio": "https://storage.googleapis.com/assessment-data-2021/cheetah.wav",
-        "image": "https://storage.googleapis.com/assessment-data-2021/images/cheetah.png"
+        "image": "https://storage.googleapis.com/assessment-data-2021/images/cheetah.png",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "oralvocabulary",
         "bucket": 9,
-        "term": "oven",
+        "target": "oven",
         "audio": "https://storage.googleapis.com/assessment-data-2021/oven.wav",
-        "image": "https://storage.googleapis.com/assessment-data-2021/images/oven.png"
+        "image": "https://storage.googleapis.com/assessment-data-2021/images/oven.png",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "oralvocabulary",
         "bucket": 9,
-        "term": "dinosaur",
+        "target": "dinosaur",
         "audio": "https://storage.googleapis.com/assessment-data-2021/dinosaur.wav",
-        "image": "https://storage.googleapis.com/assessment-data-2021/images/dinosaur.png"
+        "image": "https://storage.googleapis.com/assessment-data-2021/images/dinosaur.png",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "oralvocabulary",
         "bucket": 9,
-        "term": "chain",
+        "target": "chain",
         "audio": "https://storage.googleapis.com/assessment-data-2021/chain.wav",
-        "image": "https://storage.googleapis.com/assessment-data-2021/images/chain.png"
+        "image": "https://storage.googleapis.com/assessment-data-2021/images/chain.png",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "oralvocabulary",
         "bucket": 9,
-        "term": "cactus",
+        "target": "cactus",
         "audio": "https://storage.googleapis.com/assessment-data-2021/cactus.wav",
-        "image": "https://storage.googleapis.com/assessment-data-2021/images/cactus.png"
+        "image": "https://storage.googleapis.com/assessment-data-2021/images/cactus.png",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "readingvocabulary",
         "bucket": 1,
-        "term": "sun",
+        "target": "sun",
         "audio": "https://storage.googleapis.com/assessment-data-2021/sun.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "readingvocabulary",
         "bucket": 1,
-        "term": "happy",
+        "target": "happy",
         "audio": "https://storage.googleapis.com/assessment-data-2021/happy.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "readingvocabulary",
         "bucket": 1,
-        "term": "house",
+        "target": "house",
         "audio": "https://storage.googleapis.com/assessment-data-2021/house.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "readingvocabulary",
         "bucket": 1,
-        "term": "two",
+        "target": "two",
         "audio": "https://storage.googleapis.com/assessment-data-2021/two.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "readingvocabulary",
         "bucket": 1,
-        "term": "school",
+        "target": "school",
         "audio": "https://storage.googleapis.com/assessment-data-2021/school.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "readingvocabulary",
         "bucket": 1,
-        "term": "tree",
+        "target": "tree",
         "audio": "https://storage.googleapis.com/assessment-data-2021/tree.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "readingvocabulary",
         "bucket": 1,
-        "term": "fish",
+        "target": "fish",
         "audio": "https://storage.googleapis.com/assessment-data-2021/fish.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "readingvocabulary",
         "bucket": 1,
-        "term": "cat",
+        "target": "cat",
         "audio": "https://storage.googleapis.com/assessment-data-2021/cat.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "readingvocabulary",
         "bucket": 1,
-        "term": "bird",
+        "target": "bird",
         "audio": "https://storage.googleapis.com/assessment-data-2021/bird.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "readingvocabulary",
         "bucket": 1,
-        "term": "book",
+        "target": "book",
         "audio": "https://storage.googleapis.com/assessment-data-2021/book.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "readingvocabulary",
         "bucket": 1,
-        "term": "hand",
+        "target": "hand",
         "audio": "https://storage.googleapis.com/assessment-data-2021/hand.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "readingvocabulary",
         "bucket": 2,
-        "term": "world",
+        "target": "world",
         "audio": "https://storage.googleapis.com/assessment-data-2021/world.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "readingvocabulary",
         "bucket": 2,
-        "term": "old",
+        "target": "old",
         "audio": "https://storage.googleapis.com/assessment-data-2021/old.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "readingvocabulary",
         "bucket": 2,
-        "term": "head",
+        "target": "head",
         "audio": "https://storage.googleapis.com/assessment-data-2021/head.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "readingvocabulary",
         "bucket": 2,
-        "term": "two",
+        "target": "two",
         "audio": "https://storage.googleapis.com/assessment-data-2021/two.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "readingvocabulary",
         "bucket": 2,
-        "term": "baby",
+        "target": "baby",
         "audio": "https://storage.googleapis.com/assessment-data-2021/baby.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "readingvocabulary",
         "bucket": 2,
-        "term": "water",
+        "target": "water",
         "audio": "https://storage.googleapis.com/assessment-data-2021/water.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "readingvocabulary",
         "bucket": 2,
-        "term": "eyes",
+        "target": "eyes",
         "audio": "https://storage.googleapis.com/assessment-data-2021/eyes.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "readingvocabulary",
         "bucket": 2,
-        "term": "fly",
+        "target": "fly",
         "audio": "https://storage.googleapis.com/assessment-data-2021/fly.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "readingvocabulary",
         "bucket": 2,
-        "term": "food",
+        "target": "food",
         "audio": "https://storage.googleapis.com/assessment-data-2021/food.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "readingvocabulary",
         "bucket": 2,
-        "term": "can",
+        "target": "can",
         "audio": "https://storage.googleapis.com/assessment-data-2021/can.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "readingvocabulary",
         "bucket": 2,
-        "term": "wings",
+        "target": "wings",
         "audio": "https://storage.googleapis.com/assessment-data-2021/wings.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "readingvocabulary",
         "bucket": 3,
-        "term": "ball",
+        "target": "ball",
         "audio": "https://storage.googleapis.com/assessment-data-2021/ball.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "readingvocabulary",
         "bucket": 3,
-        "term": "blue",
+        "target": "blue",
         "audio": "https://storage.googleapis.com/assessment-data-2021/blue.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "readingvocabulary",
         "bucket": 3,
-        "term": "moon",
+        "target": "moon",
         "audio": "https://storage.googleapis.com/assessment-data-2021/moon.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "readingvocabulary",
         "bucket": 3,
-        "term": "tiny",
+        "target": "tiny",
         "audio": "https://storage.googleapis.com/assessment-data-2021/tiny.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "readingvocabulary",
         "bucket": 3,
-        "term": "door",
+        "target": "door",
         "audio": "https://storage.googleapis.com/assessment-data-2021/door.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "readingvocabulary",
         "bucket": 3,
-        "term": "dog",
+        "target": "dog",
         "audio": "https://storage.googleapis.com/assessment-data-2021/dog.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "readingvocabulary",
         "bucket": 3,
-        "term": "plant",
+        "target": "plant",
         "audio": "https://storage.googleapis.com/assessment-data-2021/plant.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "readingvocabulary",
         "bucket": 3,
-        "term": "mouth",
+        "target": "mouth",
         "audio": "https://storage.googleapis.com/assessment-data-2021/mouth.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "readingvocabulary",
         "bucket": 3,
-        "term": "train",
+        "target": "train",
         "audio": "https://storage.googleapis.com/assessment-data-2021/train.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "readingvocabulary",
         "bucket": 3,
-        "term": "round",
+        "target": "round",
         "audio": "https://storage.googleapis.com/assessment-data-2021/round.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "readingvocabulary",
         "bucket": 3,
-        "term": "mouse",
+        "target": "mouse",
         "audio": "https://storage.googleapis.com/assessment-data-2021/mouse.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "readingvocabulary",
         "bucket": 4,
-        "term": "elephant",
+        "target": "elephant",
         "audio": "https://storage.googleapis.com/assessment-data-2021/elephant.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "readingvocabulary",
         "bucket": 4,
-        "term": "sleep",
+        "target": "sleep",
         "audio": "https://storage.googleapis.com/assessment-data-2021/sleep.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "readingvocabulary",
         "bucket": 4,
-        "term": "frog",
+        "target": "frog",
         "audio": "https://storage.googleapis.com/assessment-data-2021/frog.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "readingvocabulary",
         "bucket": 4,
-        "term": "dress",
+        "target": "dress",
         "audio": "https://storage.googleapis.com/assessment-data-2021/dress.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "readingvocabulary",
         "bucket": 4,
-        "term": "pot",
+        "target": "pot",
         "audio": "https://storage.googleapis.com/assessment-data-2021/pot.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "readingvocabulary",
         "bucket": 4,
-        "term": "apple",
+        "target": "apple",
         "audio": "https://storage.googleapis.com/assessment-data-2021/apple.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "readingvocabulary",
         "bucket": 4,
-        "term": "bicycle",
+        "target": "bicycle",
         "audio": "https://storage.googleapis.com/assessment-data-2021/bicycle.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "readingvocabulary",
         "bucket": 4,
-        "term": "rock",
+        "target": "rock",
         "audio": "https://storage.googleapis.com/assessment-data-2021/rock.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "readingvocabulary",
         "bucket": 4,
-        "term": "banana",
+        "target": "banana",
         "audio": "https://storage.googleapis.com/assessment-data-2021/banana.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "readingvocabulary",
         "bucket": 4,
-        "term": "shell",
+        "target": "shell",
         "audio": "https://storage.googleapis.com/assessment-data-2021/shell.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "readingvocabulary",
         "bucket": 4,
-        "term": "broom",
+        "target": "broom",
         "audio": "https://storage.googleapis.com/assessment-data-2021/broom.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "readingvocabulary",
         "bucket": 5,
-        "term": "mirror",
+        "target": "mirror",
         "audio": "https://storage.googleapis.com/assessment-data-2021/mirror.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "readingvocabulary",
         "bucket": 5,
-        "term": "ship",
+        "target": "ship",
         "audio": "https://storage.googleapis.com/assessment-data-2021/ship.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "readingvocabulary",
         "bucket": 5,
-        "term": "mountain",
+        "target": "mountain",
         "audio": "https://storage.googleapis.com/assessment-data-2021/mountain.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "readingvocabulary",
         "bucket": 5,
-        "term": "shirt",
+        "target": "shirt",
         "audio": "https://storage.googleapis.com/assessment-data-2021/shirt.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "readingvocabulary",
         "bucket": 5,
-        "term": "heart",
+        "target": "heart",
         "audio": "https://storage.googleapis.com/assessment-data-2021/heart.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "readingvocabulary",
         "bucket": 5,
-        "term": "leaf",
+        "target": "leaf",
         "audio": "https://storage.googleapis.com/assessment-data-2021/leaf.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "readingvocabulary",
         "bucket": 5,
-        "term": "turtle",
+        "target": "turtle",
         "audio": "https://storage.googleapis.com/assessment-data-2021/turtle.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "readingvocabulary",
         "bucket": 5,
-        "term": "bucket",
+        "target": "bucket",
         "audio": "https://storage.googleapis.com/assessment-data-2021/bucket.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "readingvocabulary",
         "bucket": 5,
-        "term": "drum",
+        "target": "drum",
         "audio": "https://storage.googleapis.com/assessment-data-2021/drum.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "readingvocabulary",
         "bucket": 5,
-        "term": "socks",
+        "target": "socks",
         "audio": "https://storage.googleapis.com/assessment-data-2021/socks.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "readingvocabulary",
         "bucket": 5,
-        "term": "pig",
+        "target": "pig",
         "audio": "https://storage.googleapis.com/assessment-data-2021/pig.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "readingvocabulary",
         "bucket": 6,
-        "term": "shoe",
+        "target": "shoe",
         "audio": "https://storage.googleapis.com/assessment-data-2021/shoe.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "readingvocabulary",
         "bucket": 6,
-        "term": "clock",
+        "target": "clock",
         "audio": "https://storage.googleapis.com/assessment-data-2021/clock.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "readingvocabulary",
         "bucket": 6,
-        "term": "doll",
+        "target": "doll",
         "audio": "https://storage.googleapis.com/assessment-data-2021/doll.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "readingvocabulary",
         "bucket": 6,
-        "term": "lizard",
+        "target": "lizard",
         "audio": "https://storage.googleapis.com/assessment-data-2021/lizard.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "readingvocabulary",
         "bucket": 6,
-        "term": "egg",
+        "target": "egg",
         "audio": "https://storage.googleapis.com/assessment-data-2021/egg.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "readingvocabulary",
         "bucket": 6,
-        "term": "lamp",
+        "target": "lamp",
         "audio": "https://storage.googleapis.com/assessment-data-2021/lamp.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "readingvocabulary",
         "bucket": 6,
-        "term": "bubble",
+        "target": "bubble",
         "audio": "https://storage.googleapis.com/assessment-data-2021/bubble.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "readingvocabulary",
         "bucket": 6,
-        "term": "candle",
+        "target": "candle",
         "audio": "https://storage.googleapis.com/assessment-data-2021/candle.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "readingvocabulary",
         "bucket": 6,
-        "term": "fan",
+        "target": "fan",
         "audio": "https://storage.googleapis.com/assessment-data-2021/fan.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "readingvocabulary",
         "bucket": 6,
-        "term": "tractor",
+        "target": "tractor",
         "audio": "https://storage.googleapis.com/assessment-data-2021/tractor.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "readingvocabulary",
         "bucket": 6,
-        "term": "triangle",
+        "target": "triangle",
         "audio": "https://storage.googleapis.com/assessment-data-2021/triangle.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "readingvocabulary",
         "bucket": 7,
-        "term": "bat",
+        "target": "bat",
         "audio": "https://storage.googleapis.com/assessment-data-2021/bat.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "readingvocabulary",
         "bucket": 7,
-        "term": "smiling",
+        "target": "smiling",
         "audio": "https://storage.googleapis.com/assessment-data-2021/smiling.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "readingvocabulary",
         "bucket": 7,
-        "term": "tooth",
+        "target": "tooth",
         "audio": "https://storage.googleapis.com/assessment-data-2021/tooth.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "readingvocabulary",
         "bucket": 7,
-        "term": "beak",
+        "target": "beak",
         "audio": "https://storage.googleapis.com/assessment-data-2021/beak.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "readingvocabulary",
         "bucket": 7,
-        "term": "rainbow",
+        "target": "rainbow",
         "audio": "https://storage.googleapis.com/assessment-data-2021/rainbow.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "readingvocabulary",
         "bucket": 7,
-        "term": "kite",
+        "target": "kite",
         "audio": "https://storage.googleapis.com/assessment-data-2021/kite.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "readingvocabulary",
         "bucket": 7,
-        "term": "tube",
+        "target": "tube",
         "audio": "https://storage.googleapis.com/assessment-data-2021/tube.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "readingvocabulary",
         "bucket": 7,
-        "term": "insect",
+        "target": "insect",
         "audio": "https://storage.googleapis.com/assessment-data-2021/insect.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "readingvocabulary",
         "bucket": 7,
-        "term": "computer",
+        "target": "computer",
         "audio": "https://storage.googleapis.com/assessment-data-2021/computer.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "readingvocabulary",
         "bucket": 7,
-        "term": "umbrella",
+        "target": "umbrella",
         "audio": "https://storage.googleapis.com/assessment-data-2021/umbrella.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "readingvocabulary",
         "bucket": 7,
-        "term": "plates",
+        "target": "plates",
         "audio": "https://storage.googleapis.com/assessment-data-2021/plates.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "readingvocabulary",
         "bucket": 8,
-        "term": "battery",
+        "target": "battery",
         "audio": "https://storage.googleapis.com/assessment-data-2021/battery.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "readingvocabulary",
         "bucket": 8,
-        "term": "cube",
+        "target": "cube",
         "audio": "https://storage.googleapis.com/assessment-data-2021/cube.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "readingvocabulary",
         "bucket": 8,
-        "term": "nails",
+        "target": "nails",
         "audio": "https://storage.googleapis.com/assessment-data-2021/nails.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "readingvocabulary",
         "bucket": 8,
-        "term": "onion",
+        "target": "onion",
         "audio": "https://storage.googleapis.com/assessment-data-2021/onion.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "readingvocabulary",
         "bucket": 8,
-        "term": "zebra",
+        "target": "zebra",
         "audio": "https://storage.googleapis.com/assessment-data-2021/zebra.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "readingvocabulary",
         "bucket": 8,
-        "term": "bookshelf",
+        "target": "bookshelf",
         "audio": "https://storage.googleapis.com/assessment-data-2021/bookshelf.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "readingvocabulary",
         "bucket": 8,
-        "term": "minibus",
+        "target": "minibus",
         "audio": "https://storage.googleapis.com/assessment-data-2021/minibus.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "readingvocabulary",
         "bucket": 8,
-        "term": "suitcase",
+        "target": "suitcase",
         "audio": "https://storage.googleapis.com/assessment-data-2021/suitcase.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "readingvocabulary",
         "bucket": 8,
-        "term": "backpack",
+        "target": "backpack",
         "audio": "https://storage.googleapis.com/assessment-data-2021/backpack.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "readingvocabulary",
         "bucket": 8,
-        "term": "fork",
+        "target": "fork",
         "audio": "https://storage.googleapis.com/assessment-data-2021/fork.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "readingvocabulary",
         "bucket": 8,
-        "term": "rectangle",
+        "target": "rectangle",
         "audio": "https://storage.googleapis.com/assessment-data-2021/rectangle.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "readingvocabulary",
         "bucket": 9,
-        "term": "burger",
+        "target": "burger",
         "audio": "https://storage.googleapis.com/assessment-data-2021/burger.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "readingvocabulary",
         "bucket": 9,
-        "term": "spaghetti",
+        "target": "spaghetti",
         "audio": "https://storage.googleapis.com/assessment-data-2021/spaghetti.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "readingvocabulary",
         "bucket": 9,
-        "term": "pineapple",
+        "target": "pineapple",
         "audio": "https://storage.googleapis.com/assessment-data-2021/pineapple.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "readingvocabulary",
         "bucket": 9,
-        "term": "helmet",
+        "target": "helmet",
         "audio": "https://storage.googleapis.com/assessment-data-2021/helmet.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "readingvocabulary",
         "bucket": 9,
-        "term": "gloves",
+        "target": "gloves",
         "audio": "https://storage.googleapis.com/assessment-data-2021/gloves.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "readingvocabulary",
         "bucket": 9,
-        "term": "chimney",
+        "target": "chimney",
         "audio": "https://storage.googleapis.com/assessment-data-2021/chimney.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "readingvocabulary",
         "bucket": 9,
-        "term": "cheetah",
+        "target": "cheetah",
         "audio": "https://storage.googleapis.com/assessment-data-2021/cheetah.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "readingvocabulary",
         "bucket": 9,
-        "term": "oven",
+        "target": "oven",
         "audio": "https://storage.googleapis.com/assessment-data-2021/oven.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "readingvocabulary",
         "bucket": 9,
-        "term": "dinosaur",
+        "target": "dinosaur",
         "audio": "https://storage.googleapis.com/assessment-data-2021/dinosaur.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "readingvocabulary",
         "bucket": 9,
-        "term": "chain",
+        "target": "chain",
         "audio": "https://storage.googleapis.com/assessment-data-2021/chain.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "readingvocabulary",
         "bucket": 9,
-        "term": "cactus",
+        "target": "cactus",
         "audio": "https://storage.googleapis.com/assessment-data-2021/cactus.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "lettersound",
         "bucket": 1,
-        "term": "L",
+        "target": "L",
         "audio": "https://storage.googleapis.com/assessment-data-2021/letters/l.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "lettersound",
         "bucket": 1,
-        "term": "i",
+        "target": "i",
         "audio": "https://storage.googleapis.com/assessment-data-2021/letters/i.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "lettersound",
         "bucket": 1,
-        "term": "h",
+        "target": "h",
         "audio": "https://storage.googleapis.com/assessment-data-2021/letters/h.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "lettersound",
         "bucket": 1,
-        "term": "R",
+        "target": "R",
         "audio": "https://storage.googleapis.com/assessment-data-2021/letters/r.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "lettersound",
         "bucket": 1,
-        "term": "S",
+        "target": "S",
         "audio": "https://storage.googleapis.com/assessment-data-2021/letters/s.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "lettersound",
         "bucket": 1,
-        "term": "y",
+        "target": "y",
         "audio": "https://storage.googleapis.com/assessment-data-2021/letters/y.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "lettersound",
         "bucket": 1,
-        "term": "E",
+        "target": "E",
         "audio": "https://storage.googleapis.com/assessment-data-2021/letters/e.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "lettersound",
         "bucket": 1,
-        "term": "O",
+        "target": "O",
         "audio": "https://storage.googleapis.com/assessment-data-2021/letters/o.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "lettersound",
         "bucket": 1,
-        "term": "n",
+        "target": "n",
         "audio": "https://storage.googleapis.com/assessment-data-2021/letters/n.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "lettersound",
         "bucket": 1,
-        "term": "T",
+        "target": "T",
         "audio": "https://storage.googleapis.com/assessment-data-2021/letters/t.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "lettersound",
         "bucket": 2,
-        "term": "i",
+        "target": "i",
         "audio": "https://storage.googleapis.com/assessment-data-2021/letters/i.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "lettersound",
         "bucket": 2,
-        "term": "e",
+        "target": "e",
         "audio": "https://storage.googleapis.com/assessment-data-2021/letters/e.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "lettersound",
         "bucket": 2,
-        "term": "T",
+        "target": "T",
         "audio": "https://storage.googleapis.com/assessment-data-2021/letters/t.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "lettersound",
         "bucket": 2,
-        "term": "D",
+        "target": "D",
         "audio": "https://storage.googleapis.com/assessment-data-2021/letters/d.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "lettersound",
         "bucket": 2,
-        "term": "A",
+        "target": "A",
         "audio": "https://storage.googleapis.com/assessment-data-2021/letters/a.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "lettersound",
         "bucket": 2,
-        "term": "v",
+        "target": "v",
         "audio": "https://storage.googleapis.com/assessment-data-2021/letters/v.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "lettersound",
         "bucket": 2,
-        "term": "g",
+        "target": "g",
         "audio": "https://storage.googleapis.com/assessment-data-2021/letters/g.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "lettersound",
         "bucket": 2,
-        "term": "d",
+        "target": "d",
         "audio": "https://storage.googleapis.com/assessment-data-2021/letters/d.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "lettersound",
         "bucket": 2,
-        "term": "P",
+        "target": "P",
         "audio": "https://storage.googleapis.com/assessment-data-2021/letters/p.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "lettersound",
         "bucket": 2,
-        "term": "w",
+        "target": "w",
         "audio": "https://storage.googleapis.com/assessment-data-2021/letters/w.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "lettersound",
         "bucket": 3,
-        "term": "h",
+        "target": "h",
         "audio": "https://storage.googleapis.com/assessment-data-2021/letters/h.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "lettersound",
         "bucket": 3,
-        "term": "O",
+        "target": "O",
         "audio": "https://storage.googleapis.com/assessment-data-2021/letters/o.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "lettersound",
         "bucket": 3,
-        "term": "e",
+        "target": "e",
         "audio": "https://storage.googleapis.com/assessment-data-2021/letters/e.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "lettersound",
         "bucket": 3,
-        "term": "m",
+        "target": "m",
         "audio": "https://storage.googleapis.com/assessment-data-2021/letters/m.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "lettersound",
         "bucket": 3,
-        "term": "U",
+        "target": "U",
         "audio": "https://storage.googleapis.com/assessment-data-2021/letters/u.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "lettersound",
         "bucket": 3,
-        "term": "k",
+        "target": "k",
         "audio": "https://storage.googleapis.com/assessment-data-2021/letters/k.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "lettersound",
         "bucket": 3,
-        "term": "L",
+        "target": "L",
         "audio": "https://storage.googleapis.com/assessment-data-2021/letters/l.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "lettersound",
         "bucket": 3,
-        "term": "G",
+        "target": "G",
         "audio": "https://storage.googleapis.com/assessment-data-2021/letters/g.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "lettersound",
         "bucket": 3,
-        "term": "R",
+        "target": "R",
         "audio": "https://storage.googleapis.com/assessment-data-2021/letters/r.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "lettersound",
         "bucket": 3,
-        "term": "a",
+        "target": "a",
         "audio": "https://storage.googleapis.com/assessment-data-2021/letters/a.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "lettersound",
         "bucket": 4,
-        "term": "g",
+        "target": "g",
         "audio": "https://storage.googleapis.com/assessment-data-2021/letters/g.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "lettersound",
         "bucket": 4,
-        "term": "R",
+        "target": "R",
         "audio": "https://storage.googleapis.com/assessment-data-2021/letters/r.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "lettersound",
         "bucket": 4,
-        "term": "B",
+        "target": "B",
         "audio": "https://storage.googleapis.com/assessment-data-2021/letters/b.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "lettersound",
         "bucket": 4,
-        "term": "E",
+        "target": "E",
         "audio": "https://storage.googleapis.com/assessment-data-2021/letters/e.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "lettersound",
         "bucket": 4,
-        "term": "I",
+        "target": "I",
         "audio": "https://storage.googleapis.com/assessment-data-2021/letters/i.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "lettersound",
         "bucket": 4,
-        "term": "f",
+        "target": "f",
         "audio": "https://storage.googleapis.com/assessment-data-2021/letters/f.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "lettersound",
         "bucket": 4,
-        "term": "m",
+        "target": "m",
         "audio": "https://storage.googleapis.com/assessment-data-2021/letters/m.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "lettersound",
         "bucket": 4,
-        "term": "t",
+        "target": "t",
         "audio": "https://storage.googleapis.com/assessment-data-2021/letters/t.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "lettersound",
         "bucket": 4,
-        "term": "s",
+        "target": "s",
         "audio": "https://storage.googleapis.com/assessment-data-2021/letters/s.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "lettersound",
         "bucket": 4,
-        "term": "l",
+        "target": "l",
         "audio": "https://storage.googleapis.com/assessment-data-2021/letters/l.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "lettersound",
         "bucket": 5,
-        "term": "N",
+        "target": "N",
         "audio": "https://storage.googleapis.com/assessment-data-2021/letters/n.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "lettersound",
         "bucket": 5,
-        "term": "A",
+        "target": "A",
         "audio": "https://storage.googleapis.com/assessment-data-2021/letters/a.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "lettersound",
         "bucket": 5,
-        "term": "c",
+        "target": "c",
         "audio": "https://storage.googleapis.com/assessment-data-2021/letters/c.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "lettersound",
         "bucket": 5,
-        "term": "D",
+        "target": "D",
         "audio": "https://storage.googleapis.com/assessment-data-2021/letters/d.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "lettersound",
         "bucket": 5,
-        "term": "p",
+        "target": "p",
         "audio": "https://storage.googleapis.com/assessment-data-2021/letters/p.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "lettersound",
         "bucket": 5,
-        "term": "I",
+        "target": "I",
         "audio": "https://storage.googleapis.com/assessment-data-2021/letters/l.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "lettersound",
         "bucket": 5,
-        "term": "O",
+        "target": "O",
         "audio": "https://storage.googleapis.com/assessment-data-2021/letters/o.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "lettersound",
         "bucket": 5,
-        "term": "j",
+        "target": "j",
         "audio": "https://storage.googleapis.com/assessment-data-2021/letters/j.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "lettersound",
         "bucket": 5,
-        "term": "z",
+        "target": "z",
         "audio": "https://storage.googleapis.com/assessment-data-2021/letters/z.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "lettersound",
         "bucket": 5,
-        "term": "x",
+        "target": "x",
         "audio": "https://storage.googleapis.com/assessment-data-2021/letters/x.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "sightwords",
         "bucket": 1,
-        "term": "and",
+        "target": "and",
         "audio": "https://storage.googleapis.com/assessment-data-2021/words/and.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "sightwords",
         "bucket": 1,
-        "term": "you",
+        "target": "you",
         "audio": "https://storage.googleapis.com/assessment-data-2021/words/you.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "sightwords",
         "bucket": 1,
-        "term": "they",
+        "target": "they",
         "audio": "https://storage.googleapis.com/assessment-data-2021/words/they.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "sightwords",
         "bucket": 1,
-        "term": "are",
+        "target": "are",
         "audio": "https://storage.googleapis.com/assessment-data-2021/words/are.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "sightwords",
         "bucket": 1,
-        "term": "at",
+        "target": "at",
         "audio": "https://storage.googleapis.com/assessment-data-2021/words/at.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "sightwords",
         "bucket": 1,
-        "term": "me",
+        "target": "me",
         "audio": "https://storage.googleapis.com/assessment-data-2021/words/me.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "sightwords",
         "bucket": 1,
-        "term": "up",
+        "target": "up",
         "audio": "https://storage.googleapis.com/assessment-data-2021/words/up.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "sightwords",
         "bucket": 1,
-        "term": "him",
+        "target": "him",
         "audio": "https://storage.googleapis.com/assessment-data-2021/words/him.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "sightwords",
         "bucket": 1,
-        "term": "when",
+        "target": "when",
         "audio": "https://storage.googleapis.com/assessment-data-2021/words/when.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "sightwords",
         "bucket": 1,
-        "term": "now",
+        "target": "now",
         "audio": "https://storage.googleapis.com/assessment-data-2021/words/now.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "sightwords",
         "bucket": 1,
-        "term": "like",
+        "target": "like",
         "audio": "https://storage.googleapis.com/assessment-data-2021/words/like.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "sightwords",
         "bucket": 1,
-        "term": "fly",
+        "target": "fly",
         "audio": "https://storage.googleapis.com/assessment-data-2021/words/fly.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "sightwords",
         "bucket": 2,
-        "term": "go",
+        "target": "go",
         "audio": "https://storage.googleapis.com/assessment-data-2021/words/go.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "sightwords",
         "bucket": 2,
-        "term": "see",
+        "target": "see",
         "audio": "https://storage.googleapis.com/assessment-data-2021/words/see.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "sightwords",
         "bucket": 2,
-        "term": "help",
+        "target": "help",
         "audio": "https://storage.googleapis.com/assessment-data-2021/words/help.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "sightwords",
         "bucket": 2,
-        "term": "big",
+        "target": "big",
         "audio": "https://storage.googleapis.com/assessment-data-2021/words/big.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "sightwords",
         "bucket": 2,
-        "term": "know",
+        "target": "know",
         "audio": "https://storage.googleapis.com/assessment-data-2021/words/know.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "sightwords",
         "bucket": 2,
-        "term": "come",
+        "target": "come",
         "audio": "https://storage.googleapis.com/assessment-data-2021/words/come.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "sightwords",
         "bucket": 2,
-        "term": "down",
+        "target": "down",
         "audio": "https://storage.googleapis.com/assessment-data-2021/words/down.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "sightwords",
         "bucket": 2,
-        "term": "us",
+        "target": "us",
         "audio": "https://storage.googleapis.com/assessment-data-2021/words/us.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "sightwords",
         "bucket": 2,
-        "term": "want",
+        "target": "want",
         "audio": "https://storage.googleapis.com/assessment-data-2021/words/want.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "sightwords",
         "bucket": 2,
-        "term": "find",
+        "target": "find",
         "audio": "https://storage.googleapis.com/assessment-data-2021/words/find.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "sightwords",
         "bucket": 2,
-        "term": "house",
+        "target": "house",
         "audio": "https://storage.googleapis.com/assessment-data-2021/words/house.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "sightwords",
         "bucket": 3,
-        "term": "play",
+        "target": "play",
         "audio": "https://storage.googleapis.com/assessment-data-2021/words/play.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "sightwords",
         "bucket": 3,
-        "term": "red",
+        "target": "red",
         "audio": "https://storage.googleapis.com/assessment-data-2021/words/red.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "sightwords",
         "bucket": 3,
-        "term": "many",
+        "target": "many",
         "audio": "https://storage.googleapis.com/assessment-data-2021/words/many.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "sightwords",
         "bucket": 3,
-        "term": "please",
+        "target": "please",
         "audio": "https://storage.googleapis.com/assessment-data-2021/words/please.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "sightwords",
         "bucket": 3,
-        "term": "green",
+        "target": "green",
         "audio": "https://storage.googleapis.com/assessment-data-2021/words/green.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "sightwords",
         "bucket": 3,
-        "term": "good",
+        "target": "good",
         "audio": "https://storage.googleapis.com/assessment-data-2021/words/good.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "sightwords",
         "bucket": 3,
-        "term": "soon",
+        "target": "soon",
         "audio": "https://storage.googleapis.com/assessment-data-2021/words/soon.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "sightwords",
         "bucket": 3,
-        "term": "must",
+        "target": "must",
         "audio": "https://storage.googleapis.com/assessment-data-2021/words/must.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "sightwords",
         "bucket": 3,
-        "term": "going",
+        "target": "going",
         "audio": "https://storage.googleapis.com/assessment-data-2021/words/going.wavv",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "sightwords",
         "bucket": 3,
-        "term": "man",
+        "target": "man",
         "audio": "https://storage.googleapis.com/assessment-data-2021/words/man.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "sightwords",
         "bucket": 4,
-        "term": "under",
+        "target": "under",
         "audio": "https://storage.googleapis.com/assessment-data-2021/words/under.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "sightwords",
         "bucket": 4,
-        "term": "which",
+        "target": "which",
         "audio": "https://storage.googleapis.com/assessment-data-2021/words/which.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "sightwords",
         "bucket": 4,
-        "term": "always",
+        "target": "always",
         "audio": "https://storage.googleapis.com/assessment-data-2021/words/always.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "sightwords",
         "bucket": 4,
-        "term": "stop",
+        "target": "stop",
         "audio": "https://storage.googleapis.com/assessment-data-2021/words/stop.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "sightwords",
         "bucket": 4,
-        "term": "sad",
+        "target": "sad",
         "audio": "https://storage.googleapis.com/assessment-data-2021/words/sad.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "sightwords",
         "bucket": 4,
-        "term": "run",
+        "target": "run",
         "audio": "https://storage.googleapis.com/assessment-data-2021/words/run.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "sightwords",
         "bucket": 4,
-        "term": "sing",
+        "target": "sing",
         "audio": "https://storage.googleapis.com/assessment-data-2021/words/sing.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "sightwords",
         "bucket": 4,
-        "term": "thank",
+        "target": "thank",
         "audio": "https://storage.googleapis.com/assessment-data-2021/words/thank.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "sightwords",
         "bucket": 4,
-        "term": "once",
+        "target": "once",
         "audio": "https://storage.googleapis.com/assessment-data-2021/words/once.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "sightwords",
         "bucket": 4,
-        "term": "girl",
+        "target": "girl",
         "audio": "https://storage.googleapis.com/assessment-data-2021/words/girl.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "sightwords",
         "bucket": 4,
-        "term": "ask",
+        "target": "ask",
         "audio": "https://storage.googleapis.com/assessment-data-2021/words/ask.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "sightwords",
         "bucket": 5,
-        "term": "those",
+        "target": "those",
         "audio": "https://storage.googleapis.com/assessment-data-2021/words/those.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "sightwords",
         "bucket": 5,
-        "term": "clean",
+        "target": "clean",
         "audio": "https://storage.googleapis.com/assessment-data-2021/words/clean.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "sightwords",
         "bucket": 5,
-        "term": "sit",
+        "target": "sit",
         "audio": "https://storage.googleapis.com/assessment-data-2021/words/sit.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "sightwords",
         "bucket": 5,
-        "term": "jump",
+        "target": "jump",
         "audio": "https://storage.googleapis.com/assessment-data-2021/words/jump.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "sightwords",
         "bucket": 5,
-        "term": "chair",
+        "target": "chair",
         "audio": "https://storage.googleapis.com/assessment-data-2021/words/chair.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "sightwords",
         "bucket": 5,
-        "term": "upon",
+        "target": "upon",
         "audio": "https://storage.googleapis.com/assessment-data-2021/words/upon.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "sightwords",
         "bucket": 5,
-        "term": "today",
+        "target": "today",
         "audio": "https://storage.googleapis.com/assessment-data-2021/words/today.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "sightwords",
         "bucket": 5,
-        "term": "uncle",
+        "target": "uncle",
         "audio": "https://storage.googleapis.com/assessment-data-2021/words/uncle.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "sightwords",
         "bucket": 5,
-        "term": "hard",
+        "target": "hard",
         "audio": "https://storage.googleapis.com/assessment-data-2021/words/hard.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "sightwords",
         "bucket": 5,
-        "term": "gave",
+        "target": "gave",
         "audio": "https://storage.googleapis.com/assessment-data-2021/words/gave.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "sightwords",
         "bucket": 5,
-        "term": "great",
+        "target": "great",
         "audio": "https://storage.googleapis.com/assessment-data-2021/words/great.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "sightwords",
         "bucket": 6,
-        "term": "fell",
+        "target": "fell",
         "audio": "https://storage.googleapis.com/assessment-data-2021/words/fell.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "sightwords",
         "bucket": 6,
-        "term": "than",
+        "target": "than",
         "audio": "https://storage.googleapis.com/assessment-data-2021/words/than.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "sightwords",
         "bucket": 6,
-        "term": "really",
+        "target": "really",
         "audio": "https://storage.googleapis.com/assessment-data-2021/words/really.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "sightwords",
         "bucket": 6,
-        "term": "teacher",
+        "target": "teacher",
         "audio": "https://storage.googleapis.com/assessment-data-2021/words/teacher.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "sightwords",
         "bucket": 6,
-        "term": "dear",
+        "target": "dear",
         "audio": "https://storage.googleapis.com/assessment-data-2021/words/dear.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "sightwords",
         "bucket": 6,
-        "term": "decided",
+        "target": "decided",
         "audio": "https://storage.googleapis.com/assessment-data-2021/words/decided.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "sightwords",
         "bucket": 6,
-        "term": "towards",
+        "target": "towards",
         "audio": "https://storage.googleapis.com/assessment-data-2021/words/towards.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "sightwords",
         "bucket": 6,
-        "term": "love",
+        "target": "love",
         "audio": "https://storage.googleapis.com/assessment-data-2021/words/love.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "sightwords",
         "bucket": 6,
-        "term": "any",
+        "target": "any",
         "audio": "https://storage.googleapis.com/assessment-data-2021/words/any.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "sightwords",
         "bucket": 6,
-        "term": "brother",
+        "target": "brother",
         "audio": "https://storage.googleapis.com/assessment-data-2021/words/brother.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "sightwords",
         "bucket": 6,
-        "term": "garden",
+        "target": "garden",
         "audio": "https://storage.googleapis.com/assessment-data-2021/words/garden.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "sightwords",
         "bucket": 7,
-        "term": "already",
+        "target": "already",
         "audio": "https://storage.googleapis.com/assessment-data-2021/words/already.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "sightwords",
         "bucket": 7,
-        "term": "plays",
+        "target": "plays",
         "audio": "https://storage.googleapis.com/assessment-data-2021/words/plays.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "sightwords",
         "bucket": 7,
-        "term": "shone",
+        "target": "shone",
         "audio": "https://storage.googleapis.com/assessment-data-2021/words/shone.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "sightwords",
         "bucket": 7,
-        "term": "watching",
+        "target": "watching",
         "audio": "https://storage.googleapis.com/assessment-data-2021/words/watching.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "sightwords",
         "bucket": 7,
-        "term": "changed",
+        "target": "changed",
         "audio": "https://storage.googleapis.com/assessment-data-2021/words/changed.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "sightwords",
         "bucket": 7,
-        "term": "keeps",
+        "target": "keeps",
         "audio": "https://storage.googleapis.com/assessment-data-2021/words/keeps.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "sightwords",
         "bucket": 7,
-        "term": "seems",
+        "target": "seems",
         "audio": "https://storage.googleapis.com/assessment-data-2021/words/seems.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "sightwords",
         "bucket": 7,
-        "term": "bigger",
+        "target": "bigger",
         "audio": "https://storage.googleapis.com/assessment-data-2021/words/bigger.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "sightwords",
         "bucket": 7,
-        "term": "chase",
+        "target": "chase",
         "audio": "https://storage.googleapis.com/assessment-data-2021/words/chase.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "sightwords",
         "bucket": 7,
-        "term": "difficult",
+        "target": "difficult",
         "audio": "https://storage.googleapis.com/assessment-data-2021/words/difficult.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "sightwords",
         "bucket": 7,
-        "term": "dinner",
+        "target": "dinner",
         "audio": "https://storage.googleapis.com/assessment-data-2021/words/dinner.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "sightwords",
         "bucket": 8,
-        "term": "famous",
+        "target": "famous",
         "audio": "https://storage.googleapis.com/assessment-data-2021/words/famous.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "sightwords",
         "bucket": 8,
-        "term": "group",
+        "target": "group",
         "audio": "https://storage.googleapis.com/assessment-data-2021/words/group.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "sightwords",
         "bucket": 8,
-        "term": "meeting",
+        "target": "meeting",
         "audio": "https://storage.googleapis.com/assessment-data-2021/words/meeting.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "sightwords",
         "bucket": 8,
-        "term": "parts",
+        "target": "parts",
         "audio": "https://storage.googleapis.com/assessment-data-2021/words/parts.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "sightwords",
         "bucket": 8,
-        "term": "skin",
+        "target": "skin",
         "audio": "https://storage.googleapis.com/assessment-data-2021/words/skin.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "sightwords",
         "bucket": 8,
-        "term": "spent",
+        "target": "spent",
         "audio": "https://storage.googleapis.com/assessment-data-2021/words/spent.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "sightwords",
         "bucket": 8,
-        "term": "below",
+        "target": "below",
         "audio": "https://storage.googleapis.com/assessment-data-2021/words/below.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "sightwords",
         "bucket": 8,
-        "term": "collected",
+        "target": "collected",
         "audio": "https://storage.googleapis.com/assessment-data-2021/words/collected.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "sightwords",
         "bucket": 8,
-        "term": "engine",
+        "target": "engine",
         "audio": "https://storage.googleapis.com/assessment-data-2021/words/engine.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "sightwords",
         "bucket": 8,
-        "term": "finish",
+        "target": "finish",
         "audio": "https://storage.googleapis.com/assessment-data-2021/words/finish.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "sightwords",
         "bucket": 8,
-        "term": "least",
+        "target": "least",
         "audio": "https://storage.googleapis.com/assessment-data-2021/words/least.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "sightwords",
         "bucket": 9,
-        "term": "hairy",
+        "target": "hairy",
         "audio": "https://storage.googleapis.com/assessment-data-2021/words/hairy.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "sightwords",
         "bucket": 9,
-        "term": "ignored",
+        "target": "ignored",
         "audio": "https://storage.googleapis.com/assessment-data-2021/words/ignored.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "sightwords",
         "bucket": 9,
-        "term": "magnificent",
+        "target": "magnificent",
         "audio": "https://storage.googleapis.com/assessment-data-2021/words/magnificent.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "sightwords",
         "bucket": 9,
-        "term": "rubber",
+        "target": "rubber",
         "audio": "https://storage.googleapis.com/assessment-data-2021/words/rubber.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "sightwords",
         "bucket": 9,
-        "term": "salty",
+        "target": "salty",
         "audio": "https://storage.googleapis.com/assessment-data-2021/words/salty.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "sightwords",
         "bucket": 9,
-        "term": "written",
+        "target": "written",
         "audio": "https://storage.googleapis.com/assessment-data-2021/words/written.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "sightwords",
         "bucket": 9,
-        "term": "cactus",
+        "target": "cactus",
         "audio": "https://storage.googleapis.com/assessment-data-2021/words/cactus.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "sightwords",
         "bucket": 9,
-        "term": "roosters",
+        "target": "roosters",
         "audio": "https://storage.googleapis.com/assessment-data-2021/words/roosters.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "sightwords",
         "bucket": 9,
-        "term": "afford",
+        "target": "afford",
         "audio": "https://storage.googleapis.com/assessment-data-2021/words/afford.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "sightwords",
         "bucket": 9,
-        "term": "bold",
+        "target": "bold",
         "audio": "https://storage.googleapis.com/assessment-data-2021/words/bold.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "sightwords",
         "bucket": 9,
-        "term": "furry",
+        "target": "furry",
         "audio": "https://storage.googleapis.com/assessment-data-2021/words/furry.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "pseudowords",
         "bucket": 1,
-        "term": "gak",
+        "target": "gak",
         "audio": "https://storage.googleapis.com/assessment-data-2021/psudo/gak.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "pseudowords",
         "bucket": 1,
-        "term": "san",
+        "target": "san",
         "audio": "https://storage.googleapis.com/assessment-data-2021/psudo/san.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "pseudowords",
         "bucket": 1,
-        "term": "ral",
+        "target": "ral",
         "audio": "https://storage.googleapis.com/assessment-data-2021/psudo/ral.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "pseudowords",
         "bucket": 1,
-        "term": "nad",
+        "target": "nad",
         "audio": "https://storage.googleapis.com/assessment-data-2021/psudo/nad.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "pseudowords",
         "bucket": 1,
-        "term": "tat",
+        "target": "tat",
         "audio": "https://storage.googleapis.com/assessment-data-2021/psudo/tat.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "pseudowords",
         "bucket": 1,
-        "term": "kad",
+        "target": "kad",
         "audio": "https://storage.googleapis.com/assessment-data-2021/psudo/kad.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "pseudowords",
         "bucket": 1,
-        "term": "taw",
+        "target": "taw",
         "audio": "https://storage.googleapis.com/assessment-data-2021/psudo/taw.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "pseudowords",
         "bucket": 1,
-        "term": "paf",
+        "target": "paf",
         "audio": "https://storage.googleapis.com/assessment-data-2021/psudo/paf.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "pseudowords",
         "bucket": 1,
-        "term": "sal",
+        "target": "sal",
         "audio": "https://storage.googleapis.com/assessment-data-2021/psudo/sal.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "pseudowords",
         "bucket": 1,
-        "term": "kag",
+        "target": "kag",
         "audio": "https://storage.googleapis.com/assessment-data-2021/psudo/kag.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "pseudowords",
         "bucket": 1,
-        "term": "yag",
+        "target": "yag",
         "audio": "https://storage.googleapis.com/assessment-data-2021/psudo/yag.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "pseudowords",
         "bucket": 2,
-        "term": "dit",
+        "target": "dit",
         "audio": "https://storage.googleapis.com/assessment-data-2021/psudo/dit.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "pseudowords",
         "bucket": 2,
-        "term": "kib",
+        "target": "kib",
         "audio": "https://storage.googleapis.com/assessment-data-2021/psudo/kib.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "pseudowords",
         "bucket": 2,
-        "term": "hig",
+        "target": "hig",
         "audio": "https://storage.googleapis.com/assessment-data-2021/psudo/hig.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "pseudowords",
         "bucket": 2,
-        "term": "wix",
+        "target": "wix",
         "audio": "https://storage.googleapis.com/assessment-data-2021/psudo/wix.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "pseudowords",
         "bucket": 2,
-        "term": "sig",
+        "target": "sig",
         "audio": "https://storage.googleapis.com/assessment-data-2021/psudo/sig.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "pseudowords",
         "bucket": 2,
-        "term": "riz",
+        "target": "riz",
         "audio": "https://storage.googleapis.com/assessment-data-2021/psudo/riz.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "pseudowords",
         "bucket": 2,
-        "term": "tib",
+        "target": "tib",
         "audio": "https://storage.googleapis.com/assessment-data-2021/psudo/tib.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "pseudowords",
         "bucket": 2,
-        "term": "lim",
+        "target": "lim",
         "audio": "https://storage.googleapis.com/assessment-data-2021/psudo/lim.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "pseudowords",
         "bucket": 2,
-        "term": "fut",
+        "target": "fut",
         "audio": "https://storage.googleapis.com/assessment-data-2021/psudo/fut.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "pseudowords",
         "bucket": 2,
-        "term": "lus",
+        "target": "lus",
         "audio": "https://storage.googleapis.com/assessment-data-2021/psudo/lus.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "pseudowords",
         "bucket": 2,
-        "term": "huz",
+        "target": "huz",
         "audio": "https://storage.googleapis.com/assessment-data-2021/psudo/huz.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "pseudowords",
         "bucket": 3,
-        "term": "tup",
+        "target": "tup",
         "audio": "https://storage.googleapis.com/assessment-data-2021/psudo/tup.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "pseudowords",
         "bucket": 3,
-        "term": "lut",
+        "target": "lut",
         "audio": "https://storage.googleapis.com/assessment-data-2021/psudo/lut.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "pseudowords",
         "bucket": 3,
-        "term": "nup",
+        "target": "nup",
         "audio": "https://storage.googleapis.com/assessment-data-2021/psudo/nup.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "pseudowords",
         "bucket": 3,
-        "term": "zuv",
+        "target": "zuv",
         "audio": "https://storage.googleapis.com/assessment-data-2021/psudo/zuv.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "pseudowords",
         "bucket": 3,
-        "term": "rop",
+        "target": "rop",
         "audio": "https://storage.googleapis.com/assessment-data-2021/psudo/rop.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "pseudowords",
         "bucket": 3,
-        "term": "yod",
+        "target": "yod",
         "audio": "https://storage.googleapis.com/assessment-data-2021/psudo/yod.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "pseudowords",
         "bucket": 3,
-        "term": "sen",
+        "target": "sen",
         "audio": "https://storage.googleapis.com/assessment-data-2021/psudo/sen.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "pseudowords",
         "bucket": 3,
-        "term": "beb",
+        "target": "beb",
         "audio": "https://storage.googleapis.com/assessment-data-2021/psudo/beb.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "pseudowords",
         "bucket": 3,
-        "term": "lef",
+        "target": "lef",
         "audio": "https://storage.googleapis.com/assessment-data-2021/psudo/lef.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "pseudowords",
         "bucket": 3,
-        "term": "ver",
+        "target": "ver",
         "audio": "https://storage.googleapis.com/assessment-data-2021/psudo/ver.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "pseudowords",
         "bucket": 3,
-        "term": "vom",
+        "target": "vom",
         "audio": "https://storage.googleapis.com/assessment-data-2021/psudo/vom.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "pseudowords",
         "bucket": 4,
-        "term": "bluke",
+        "target": "bluke",
         "audio": "https://storage.googleapis.com/assessment-data-2021/psudo/bluke.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "pseudowords",
         "bucket": 4,
-        "term": "glate",
+        "target": "glate",
         "audio": "https://storage.googleapis.com/assessment-data-2021/psudo/glate.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "pseudowords",
         "bucket": 4,
-        "term": "stike",
+        "target": "stike",
         "audio": "https://storage.googleapis.com/assessment-data-2021/psudo/stike.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "pseudowords",
         "bucket": 4,
-        "term": "grute",
+        "target": "grute",
         "audio": "https://storage.googleapis.com/assessment-data-2021/psudo/grute.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "pseudowords",
         "bucket": 4,
-        "term": "brove",
+        "target": "brove",
         "audio": "https://storage.googleapis.com/assessment-data-2021/psudo/brove.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "pseudowords",
         "bucket": 4,
-        "term": "plune",
+        "target": "plune",
         "audio": "https://storage.googleapis.com/assessment-data-2021/psudo/plune.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "pseudowords",
         "bucket": 4,
-        "term": "frape",
+        "target": "frape",
         "audio": "https://storage.googleapis.com/assessment-data-2021/psudo/frape.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "pseudowords",
         "bucket": 4,
-        "term": "swide",
+        "target": "swide",
         "audio": "https://storage.googleapis.com/assessment-data-2021/psudo/swide.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "pseudowords",
         "bucket": 4,
-        "term": "chome",
+        "target": "chome",
         "audio": "https://storage.googleapis.com/assessment-data-2021/psudo/chome.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "pseudowords",
         "bucket": 4,
-        "term": "treak",
+        "target": "treak",
         "audio": "https://storage.googleapis.com/assessment-data-2021/psudo/treak.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "pseudowords",
         "bucket": 4,
-        "term": "whock",
+        "target": "whock",
         "audio": "https://storage.googleapis.com/assessment-data-2021/psudo/whock.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "pseudowords",
         "bucket": 5,
-        "term": "frunt",
+        "target": "frunt",
         "audio": "https://storage.googleapis.com/assessment-data-2021/psudo/frunt.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "pseudowords",
         "bucket": 5,
-        "term": "grush",
+        "target": "grush",
         "audio": "https://storage.googleapis.com/assessment-data-2021/psudo/grush.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "pseudowords",
         "bucket": 5,
-        "term": "narts",
+        "target": "narts",
         "audio": "https://storage.googleapis.com/assessment-data-2021/psudo/narts.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "pseudowords",
         "bucket": 5,
-        "term": "thant",
+        "target": "thant",
         "audio": "https://storage.googleapis.com/assessment-data-2021/psudo/thant.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "pseudowords",
         "bucket": 5,
-        "term": "snart",
+        "target": "snart",
         "audio": "https://storage.googleapis.com/assessment-data-2021/psudo/snart.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "pseudowords",
         "bucket": 5,
-        "term": "shide",
+        "target": "shide",
         "audio": "https://storage.googleapis.com/assessment-data-2021/psudo/shide.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "pseudowords",
         "bucket": 5,
-        "term": "thimp",
+        "target": "thimp",
         "audio": "https://storage.googleapis.com/assessment-data-2021/psudo/thimp.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "pseudowords",
         "bucket": 5,
-        "term": "clins",
+        "target": "clins",
         "audio": "https://storage.googleapis.com/assessment-data-2021/psudo/clins.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "pseudowords",
         "bucket": 5,
-        "term": "chave",
+        "target": "chave",
         "audio": "https://storage.googleapis.com/assessment-data-2021/psudo/chave.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "pseudowords",
         "bucket": 5,
-        "term": "pleck",
+        "target": "pleck",
         "audio": "https://storage.googleapis.com/assessment-data-2021/psudo/pleck.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
     },
     {
         "assessment": "pseudowords",
         "bucket": 5,
-        "term": "glamp",
+        "target": "glamp",
         "audio": "https://storage.googleapis.com/assessment-data-2021/psudo/glamp.wav",
-        "image": ""
+        "image": "",
+        "license": "CC-BY-SA-4.0",
+        "source": "Curious Learning"
+    },
+    {
+        "assessment": "",
+        "bucket": "",
+        "target": "",
+        "audio": "",
+        "image": "",
+        "license": "",
+        "source": "Curious Learning"
     }
 ]
