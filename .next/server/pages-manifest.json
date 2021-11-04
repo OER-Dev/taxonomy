@@ -2,6 +2,5 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/api/ftm": "pages/api/ftm.js",
-  "/api/ftm/[id]": "pages/api/ftm/[id].js"
+  "/api/assessment/[id]": "pages/api/assessment/[id].js"
 }

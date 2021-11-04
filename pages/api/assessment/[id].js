@@ -1,6 +1,7 @@
 import { assessment } from '../../../data/assessment'
 
-export default function handler({ query: { id } }, res) {
+export default async function handler({ query: { id } }, res) {
+    
     const filtered = assessment.filter((trials) => trials.assessment == id)
 
     if (filtered.length > 0) {
