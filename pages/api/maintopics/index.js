@@ -1,5 +1,5 @@
-import { resources } from '../../../data/maintopics'
+import { maintopics } from '../../../data/maintopics'
 
 export default function handler(req, res) {
-    res.status(200).json(resources)
+    res.status(200).json(maintopics)
 }

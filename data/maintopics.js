@@ -1,7 +1,6 @@
-export const resources = [{
+export const maintopics = [{
         "language": "en",
         "order": 0,
-        "topLevel": "math",
         "mainTopic": "early-math",
         "mainTopicTitle": "Math",
         "mainTopicDescription": "Lorem ipsum",
@@ -12,7 +11,6 @@ export const resources = [{
     {
         "language": "en",
         "order": 1,
-        "topLevel": "literacy",
         "mainTopic": "reading",
         "mainTopicTitle": "Reading",
         "mainTopicDescription": "Lorem ipsum",
@@ -23,9 +21,8 @@ export const resources = [{
     {
         "language": "en",
         "order": 2,
-        "topLevel": "literacy",
-        "mainTopic": "diglit",
-        "mainTopicTitle": "Digital Literacy",
+        "mainTopic": "games",
+        "mainTopicTitle": "Games",
         "mainTopicDescription": "Lorem ipsum",
         "illustration": "url",
         "badge": "url",
